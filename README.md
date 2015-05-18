@@ -3,7 +3,7 @@
 
 ## Today
 
-1. [Challenge Triangle](challenge_triangle.md)
+1. [Challenge Triangle](challenge_triangle.rb)
 2. Bowling Example, create in class
 3. HTML history
 
